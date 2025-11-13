@@ -1,4 +1,4 @@
-[<img align="left" alt="Miron | Telegram" width="22px" src="https://raw.githubusercontent.com/cursedesigner/cursedesigner/refs/heads/main/icons/instagram.png" />](https://t.me/mirondevelop)
+[<img align="left" alt="Miron | Telegram" width="22px" src="https://raw.githubusercontent.com/cursedesigner/cursedesigner/refs/heads/main/icons/telegram.png" />](https://t.me/mirondevelop)
 <br/>
 
 Subscribe to [my channel](https://t.me/mirondevelop) in Telegram
