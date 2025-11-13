@@ -1,4 +1,7 @@
-## Hi there 👋
+[<img align="left" alt="Miron | Telegram" width="22px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/telegram.svg" />](https://t.me/mirondevelop)
+<br/>
+
+Subscribe to [my channel](https://t.me/mirondevelop) in Telegram
 
 <!--
 **cursedesigner/cursedesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
