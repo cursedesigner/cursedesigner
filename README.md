@@ -1,9 +1,6 @@
-[<img align="left" alt="Miron | Telegram" width="22px" src="https://raw.githubusercontent.com/cursedesigner/cursedesigner/refs/heads/main/icons/telegram.png" />](https://t.me/mirondevelop)
 [<img align="left" alt="Miron | LinkedIn" width="22px" src="https://raw.githubusercontent.com/cursedesigner/cursedesigner/refs/heads/main/icons/linkedin.png" />](https://www.linkedin.com/in/ustdev)
 [<img align="left" alt="Miron | LeetCode" width="22px" src="https://raw.githubusercontent.com/cursedesigner/cursedesigner/refs/heads/main/icons/leetcode.png" />](https://leetcode.com/u/koralx/)
 <br/>
-
-Subscribe to [my channel](https://t.me/mirondevelop) in Telegram
 
 <!--
 **cursedesigner/cursedesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
